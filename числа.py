@@ -6,4 +6,4 @@ def factorial(n):
 
 number = int(input("Введите число: "))
 result = factorial(number)
-print("Факториал числа", number, "равен", result)
+print("Факториaaал числа", number, "равен", result)
